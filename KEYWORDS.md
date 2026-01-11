@@ -21,7 +21,7 @@ für Suchmaschinen, Archive und automatische Katalogisierung.
 - Konsistenz physikalischer Aussagen
 
 ## Thematische Zuordnung
-- Kosmologie
+- Kosmologie.
 - Quantenphysik
 - Gravitation
 - Informationstheorie
