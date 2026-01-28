@@ -220,3 +220,10 @@ post-spacetime physics
 formal reasoning systems  
 machine-readable physics  
 AI physics kernels
+Additional reference documents:
+
+- USAGE.md
+- RELATION_TO_BOOK.md
+- SCOPE.md
+- HOW_TO_READ.md
+- WHY_THIS_EXISTS.md
