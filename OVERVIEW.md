@@ -1,49 +1,112 @@
-# MACHWERK
+# MACHWERK — Overview
 
-**Machwerk** ist ein formales Rahmenwerk für theoretische Physik.
+MACHWERK is a formal framework for theoretical physics.
 
-Es formuliert keine neue konkurrierende Theorie und ersetzt keine etablierte Physik.
-Stattdessen definiert es die **formalen Bedingungen physikalischer Beschreibbarkeit**.
+It does not propose a new competing physical theory and does not replace
+or modify established physical laws.
+Instead, it defines the **formal conditions under which physical statements
+are meaningful, admissible, and comparable**.
 
-Der Fokus liegt auf:
-- relationaler Beschreibung statt Objektannahmen
-- Projektion statt direktem Zugriff
-- Rückabbildbarkeit als Kriterium physikalischer Aussagekraft
-- strukturellen Grenzbereichen („Schwarzgrenzen“)
+The framework operates one level above concrete theories.
 
-## Worum es hier geht
+---
 
-Machwerk untersucht, **wann** physikalische Aussagen sinnvoll sind,
-**wo** Modelle ihre Gültigkeit verlieren
-und **wie** unterschiedliche theoretische Ansätze formal vergleichbar werden.
+## Core Focus
 
-Zentrale Begriffe:
-- U-Raum (vollständig relationaler Ordnungsrahmen)
-- Projektion und Injektivität
-- m₂ / m₃ als Ebenen der Beschreibbarkeit
-- Schwarzgrenze als Grenze der Rückführbarkeit
-- Three-Reaction Dynamics (TRD)
+MACHWERK is concerned with:
 
-## Worum es nicht geht
+- relational description instead of object-based assumptions  
+- projection instead of direct ontological access  
+- backprojectability as the criterion for physical meaning  
+- explicit treatment of structural boundary regions (“black boundaries”)  
+- formal separation between describable physics and non-invertible extensions  
 
-- keine neue Weltformel
-- keine zusätzliche Dimension
-- keine spekulative Ontologie
-- keine physikalischen Behauptungen ohne Rückführbarkeit
+The framework does not introduce new dynamics.
+It clarifies **when existing dynamics can be meaningfully applied**.
 
-Alle etablierten Theorien bleiben **innerhalb ihres gültigen Bereichs** unangetastet.
+---
 
-## Status
+## What This Is About
 
-Dieses Repository dient als **öffentlicher Referenzpunkt**.
-Der vollständige Text existiert unabhängig davon.
+MACHWERK investigates:
 
-Inhalte hier können sich ändern, verschieben oder reduziert werden,
-ohne den Kern des Werkes zu verändern.
+- when physical statements are well-defined  
+- where theoretical models lose physical validity  
+- how different physical approaches become formally comparable  
+- how boundary artifacts arise from projection, not from nature  
 
-## Einordnung
+Rather than asking *what exists*, MACHWERK asks:
 
-Theoretische Physik  
-Formale Physik  
-Grundlagen / Metatheorie  
-Wissenschaftstheorie der Physik
+**Under which formal conditions can a physical statement be justified?**
+
+---
+
+## Central Concepts
+
+Key structural elements include:
+
+- **U-space**  
+  A fully relational ordering domain without space, time, metric, or geometry.
+
+- **Projection and Injectivity**  
+  Observable structure arises through projection from relational domains.
+  Physical meaning depends on injective mappings.
+
+- **m₂ / m₃ Domains**  
+  Levels of physical describability and formal continuation.
+  m₂ supports backprojectable physics.
+  m₃ allows formal extension without physical interpretation.
+
+- **Black Boundaries (Σ)**  
+  Structural limits where injectivity is lost.
+  These are limits of description, not of reality.
+
+- **Three-Reaction Dynamics (TRD)**  
+  A minimal relational comparison structure.
+  It serves as a formal kernel for evaluating relational consistency.
+
+---
+
+## What This Is Not
+
+MACHWERK explicitly does **not** provide:
+
+- a “theory of everything”  
+- additional spatial or temporal dimensions  
+- speculative ontology  
+- physical claims without backprojectability  
+
+All established physical theories remain fully valid **within their respective
+domains of applicability**.
+
+MACHWERK does not challenge results.
+It challenges **category errors**.
+
+---
+
+## Repository Status
+
+This repository serves as a **public reference point**.
+
+The complete work exists independently (ISBN publication).
+Only formal structures, definitions, and reference material are maintained here.
+
+Content in this repository may be reorganized, reduced, or updated
+without altering the formal core of the framework.
+
+---
+
+## Classification
+
+- theoretical physics  
+- formal physics  
+- foundations / meta-theory  
+- philosophy of physics (methodological, non-metaphysical)  
+
+---
+
+## Summary
+
+MACHWERK does not tell physics what to calculate.
+
+It tells physics **when a calculation still means something**.
