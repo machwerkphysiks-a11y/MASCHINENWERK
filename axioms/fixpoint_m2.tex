@@ -1,0 +1,27 @@
+\section{Fixpoint Definition of $m_2$}
+
+The domain $m_2$ is not postulated as a static set.
+It is defined recursively as a fixpoint
+of relational applicability.
+
+Let $\mathcal{F}$ be an operator acting on
+sets of relational expressions such that
+\[
+\mathcal{F}(X)
+\]
+contains exactly those relations that remain
+uniquely backprojectable under all admissible
+relational operations.
+
+Then $m_2$ is defined as the maximal fixpoint:
+\[
+m_2 := \mathrm{Fix}(\mathcal{F})
+\]
+
+A relational state belongs to $m_2$
+if and only if it remains within $m_2$
+under the application of all admissible relations.
+
+If a relation leaves this fixpoint,
+the computation remains formally valid
+but loses physical interpretability.
