@@ -1,68 +1,134 @@
-# Schwarzgrenze
+# Black Boundary (Σ)
 
-Die Schwarzgrenze bezeichnet keinen physikalischen Ort,
-keine Singularität und keinen Ereignishorizont.
+The black boundary does **not** denote a physical location.
+It is not a singularity, not an event horizon, and not a geometric surface.
 
-Sie ist ein **struktureller Marker der Beschreibbarkeit**.
+The black boundary is a **structural marker of describability**.
 
-## Formale Definition
+It marks the point at which physical interpretation loses uniqueness,
+even though formal consistency is preserved.
 
-Sei  
-\[
-\Pi : \mathcal{U} \rightarrow m
-\]
-eine Projektion aus dem relationalen Vollraum \(\mathcal{U}\)
-in einen beobachtbaren Rechenraum \(m\).
+---
 
-Die Schwarzgrenze \(\Sigma\) ist definiert als die Menge aller Relationen,
-für die die Projektion ihre Eindeutigkeit verliert:
+## Formal Definition
+
+Let
 
 \[
-\Sigma := \{\, u \in \mathcal{U} \mid \Pi \text{ ist nicht injektiv} \,\}
+\Pi : \mathcal{U} \rightarrow \mathcal{M}
 \]
 
-## Bedeutung
+be a projection from the relational full space \(\mathcal{U}\)
+into an observable calculation space \(\mathcal{M}\).
 
-Jenseits der Schwarzgrenze existieren weiterhin konsistente relationale Strukturen.
-Was verloren geht, ist **nicht Existenz**, sondern **Rückführbarkeit**.
+The **black boundary** \(\Sigma\) is defined as the set of relational states
+for which the projection loses injectivity:
 
-Mehrere unterschiedliche relationale Zustände können auf denselben
-beobachtbaren Zustand projiziert werden.
+\[
+\Sigma := \{\, u \in \mathcal{U} \mid \Pi \text{ is not injective at } u \,\}
+\]
 
-Die beobachtbare Physik bleibt formal stabil,
-verliert jedoch ihre eindeutige Interpretation.
+At the black boundary, distinct relational configurations
+become observationally indistinguishable.
 
-## Abgrenzung
+---
 
-Die Schwarzgrenze ist:
+## Meaning of the Boundary
 
-- kein physikalisches Objekt  
-- keine ontologische Aussage  
-- keine Grenze des U-Raums  
+Beyond the black boundary:
 
-Sie ist ausschließlich eine Grenze der **Beobachtbarkeit**.
+- relational structures remain consistent  
+- formal continuation remains possible  
+- mathematical description does not collapse  
 
-## Zusammenhang mit Grenzphänomenen
+What is lost is **backprojectability**, not existence.
 
-Bekannte physikalische Grenzbereiche lassen sich als spezielle Manifestationen
-von Schwarzgrenzen einordnen, darunter:
+Multiple distinct relational states
+map to the same observable representation.
 
-- Planck-Skalen  
-- Ereignishorizonte  
-- Phasenübergänge  
-- Singularitätsnähe  
+The observable physics remains formally stable,
+but its interpretation ceases to be unique.
 
-Die Schwarzgrenze ersetzt keine dieser Beschreibungen,
-sondern ordnet sie formal ein.
+---
 
-## Rolle im Rahmenwerk
+## What the Black Boundary Is Not
 
-Die Schwarzgrenze trennt:
+The black boundary is:
 
-- physikalisch rückführbare Aussagen  
-- von formal fortsetzbaren, aber nicht eindeutig interpretierbaren Beschreibungen
+- not a physical object  
+- not an ontological claim  
+- not a boundary of the U-space  
+- not a singular region of spacetime  
 
-Sie ist damit ein **Filter**, kein Verbot.
+It introduces no new entities
+and asserts no new dynamics.
 
-Alles Weitere ergibt sich aus der Art der Projektion,
-nicht aus zusätzlichen Annahmen.
+It is exclusively a **boundary of observability**.
+
+---
+
+## Observational Consequences
+
+At or beyond the black boundary:
+
+- measurements remain well-defined  
+- equations may remain solvable  
+- predictions may remain numerically stable  
+
+However:
+
+- causal reconstruction fails  
+- state identification becomes ambiguous  
+- physical interpretation becomes non-unique  
+
+This ambiguity is not epistemic.
+It is structural.
+
+---
+
+## Relation to Known Boundary Phenomena
+
+Several well-known physical limit regimes
+can be classified as **manifestations of black boundaries**, including:
+
+- Planck-scale regimes  
+- event horizons  
+- phase transitions  
+- singularity-adjacent descriptions  
+
+The black boundary does **not** replace these descriptions.
+
+It provides a **formal unifying criterion**
+that explains why interpretation fails
+across otherwise unrelated physical contexts.
+
+---
+
+## Role Within the Framework
+
+The black boundary separates:
+
+- physically backprojectable statements  
+from  
+- formally admissible but non-uniquely interpretable continuations  
+
+It functions as a **filter**, not a prohibition.
+
+Formal extension is always permitted.
+Physical interpretation is conditionally restricted.
+
+Everything beyond the boundary depends solely
+on the structure of the projection,
+not on additional assumptions, hypotheses, or ontologies.
+
+---
+
+## Structural Status
+
+The black boundary is a property of mappings, not of systems.
+
+It is neither discovered nor postulated.
+It follows necessarily from the structure of projection itself.
+
+Wherever projection loses injectivity,
+a black boundary exists.
