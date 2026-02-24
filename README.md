@@ -14,9 +14,9 @@ The framework is fully developed and published as a printed monograph:
 **MACHWERK — Formale Bedingungen physikalischer Beschreibbarkeit**  
 Author: Stefan Schwarz  
 ISBN: 979-8-24410-846-0  
-(https://doi.org/10.5281/zenodo.18478523)
 Platform: Amazon (Print-on-Demand)  
 Release date: February 1, 2026  
+(https://doi.org/10.5281/zenodo.18478523)
 
 This repository does **not** replace the book.  
 It provides the **machine-readable, axiomatic kernel** on which the book is based.
