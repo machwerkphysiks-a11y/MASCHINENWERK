@@ -1,7 +1,6 @@
 # MACHWERK — Formal Core
 
-https://doi.org/10.5281/zenodo.18478523
-
+DOI (archival reference): https://doi.org/10.5281/zenodo.18478523
 
 This branch contains the **formal mathematical core** of the MACHWERK framework.
 
