@@ -127,7 +127,6 @@ The book provides:
 - ✅ Detailed derivations
 - ✅ 4 functions of the Schwarzgrenze
 - ✅ Why this works for physics (and other domains)
-- ✅ Connections to Barbour, Verlinde, Rovelli, QM, SRT
 
 This repository contains **formal scaffolding only**.
 
