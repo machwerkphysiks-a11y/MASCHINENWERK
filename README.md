@@ -22,7 +22,7 @@ A **domain-agnostic formal framework** for:
 ❌ Contextually incomplete  
 
 The 80-page introduction in the book explains:
-- Why m₃ relates to Shape Sphere (Barbour, without Janus Point)
+- Why m₃ relates to Shape Sphere 
 - Why m₂ is TRD-recursively closed
 - How the Schwarzgrenze filters between emergent and measured physics
 - Why 𝒰 is the absolute origin (no degrees of freedom, no time, no metric)
